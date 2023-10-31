@@ -11,7 +11,7 @@ const Navbar = () => {
 
   return (
     <div className="header">
-      <Link to="/"><h1>Portfolio</h1></Link>
+      <Link to="/"><h1>Portfolio.</h1></Link>
       <ul className={click ? "nav-menu active" : "nav-menu"}>
         <li>
           <Link to="/">Home</Link>
