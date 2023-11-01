@@ -1,3 +1,15 @@
+/* Set a minimum height for the page-container to push the footer to the bottom */
+.page-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Make the main-content flex-grow to fill the available space */
+.main-content {
+  flex-grow: 1;
+}
+
 .footer {
   width: 100%;
   padding: 1rem 0;
