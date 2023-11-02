@@ -6,9 +6,11 @@ import { FaBars, FaTimes } from "react-icons/fa";
 
 
 const Navbar = () => {
+  // useState hook to toggle hamburger menu
   const [click, setClick] = useState(false);
   const handleClick = () => setClick(!click);
 
+  // useState hook to change navbar background color on scroll
   const [color, setColor] = useState(false);
   const changeColor = () => {
     if (window.scrollY >= 100) {
@@ -20,6 +22,7 @@ const Navbar = () => {
     }
   };
 
+  // Add event listener to window
   window.addEventListener("scroll", changeColor);
 
   return (
