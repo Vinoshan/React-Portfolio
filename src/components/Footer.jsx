@@ -26,10 +26,10 @@ function Footer() {
           <div className="social">
             <h4>
               <h3>My Socials</h3>
-              <Link href="https://www.linkedin.com/in/vinoshank/" target="_blank">
+              <Link to="https://www.linkedin.com/in/vinoshank/" target="_blank">
                 <FaLinkedin size={30} style={{ color: "#fff", marginRight: "2rem" }} /></Link>
 
-              <Link href="https://github.com/Vinoshan?tab=repositories" target="_blank">
+              <Link to="https://github.com/Vinoshan?tab=repositories" target="_blank">
                 <FaGithub size={30} style={{ color: "#fff", marginRight: "2rem" }} /> </Link>
             </h4>
           </div>
