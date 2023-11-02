@@ -7,7 +7,7 @@ function AboutContent() {
     <div className="about">
       <div className="left">
         <h1>Who am I?</h1>
-        <p>I am a MERN developer. I create responsive websites and backend servers for my clients.</p>
+        <p>I am a programming enthusiast who's also deeply into gaming and streaming. I find joy in solving real-world problems with code, leveling up in video games, and connecting with a community of gamers while streaming. Outside of the digital realm, I'm all about puzzles - they're my go-to for mental challenges and fun. Join me on my tech, gaming, and puzzle-solving adventures!</p>
         <Link to="/contact"><button className="btn">Get in touch</button></Link>
       </div>
 
