@@ -61,8 +61,8 @@ This application is deployed to Netlify and can be accessed at [Live Demo](https
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-If you have any questions or want to collaborate on this project, please feel free to reach out to me.
+If you have any questions, feedback, or inquiries, feel free to contact the developer:
 
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Email: your.email@example.com
+Email: vinoshan@outlook.com 
+GitHub: github.com/vinoshan 
+LinkedIn: https://www.linkedin.com/in/vinoshank/
