@@ -1,0 +1,28 @@
+/* Skills */
+.skill {
+  display: flex;
+  color: #fff;
+  margin: auto;
+  padding: 1rem;
+  justify-content: space-evenly;
+}
+
+.skill h3 {
+  font-size: 2rem;
+}
+
+.skill ul {
+  padding: 0;
+}
+
+.skill li {
+  font-size: 1.5rem;
+  margin: 0.5rem 1rem;
+  list-style-type: none;
+}
+
+.left,
+.right {
+  text-align: center;
+  padding: 1rem;
+}
