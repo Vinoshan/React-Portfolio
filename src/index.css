@@ -1,5 +1,7 @@
+/* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+/* Global Styles */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -23,6 +25,7 @@ ul {
   list-style-type: none;
 }
 
+/* Button Styles */
 .btn {
   padding: 12px 32px;
   font-size: 1rem;
@@ -40,7 +43,13 @@ ul {
 }
 
 .btn:hover {
-  background-color: rgba(255, 2555, 255, 0);
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
+  transition: 0.3s;
+}
+
+.btn-light:hover {
+  background-color: rgba(255, 255, 255, 0.2);
   color: white;
   transition: 0.3s;
 }

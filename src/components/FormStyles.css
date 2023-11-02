@@ -1,8 +1,10 @@
+/* Label Styles */
 label {
   color: #fff;
   margin-bottom: 0.5rem;
 }
 
+/* Form Styles */
 form {
   display: flex;
   flex-direction: column;
@@ -11,6 +13,7 @@ form {
   max-width: 600px;
 }
 
+/* Input and Textarea Styles */
 form input,
 form textarea {
   margin-bottom: 1rem;
@@ -19,5 +22,4 @@ form textarea {
   background-color: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.1);
   color: #f4f4f4;
-
 }
