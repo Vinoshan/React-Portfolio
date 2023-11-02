@@ -55,7 +55,7 @@ npm run dev
 The application will be accessible in your web browser at `http://localhost:3000`.
 
 ## Deployment
-This application is deployed to Netlify and can be accessed at [Live Demo](https://6544076667bf705cf8e0c95e--stupendous-malabi-a2c248.netlify.app/).
+This application is deployed to Netlify and can be accessed at [Live Demo](https://65441c79cb455d00a1f404c7--stupendous-malabi-a2c248.netlify.app/).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
